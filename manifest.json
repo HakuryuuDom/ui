@@ -1,7 +1,8 @@
 {
 	"files": {
+		"browserInit.js": "6b93bfd1ce2aff38a3f717f3c32f6cd0463a136afbba802f42a1a8e21a43ff9c",
 		"config.json": "d6a5cc6d7bb471dd0d09b8cc1af73eab360eacc787b51b5e67083807aa93b025",
-		"index.js": "5e1a10add9a36e3da895b916d36e8b1b893022d504711c4d358746247b2d9df6",
+		"index.js": "c4ec2b410146edf7972b8e9dbb5c1e782cd81a16fb1f8ff0035e0f313df799fe",
 		"module.json": "a18c7aa9962d7132270d64124d259cbc822e9a6832c40b3b4cc76b3fbff5da01",
 		"node_modules/accepts/HISTORY.md": "6c0483bc5b47d1f946702081b195c21bcaf583535c4536d6a8faf2e676b4a20e",
 		"node_modules/accepts/index.js": "be2decbd50610e8f995c1e312ee4dd6d7c1244cfdf03ee4c4a3da68e572dada1",
